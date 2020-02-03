@@ -109,6 +109,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "debian",
+			"description": "CDN for debian packages",
+			"domain_files": ["debian.txt"]
 		}
 	]
 }
