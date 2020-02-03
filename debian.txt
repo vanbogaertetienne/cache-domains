@@ -1,2 +1,4 @@
 deb.debian.org
 security.debian.org
+cdn-fastly.deb.debian.org
+ftp.belnet.be
