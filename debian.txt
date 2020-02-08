@@ -4,3 +4,4 @@ cdn-fastly.deb.debian.org
 ftp.belnet.be
 raspbian.raspberrypi.org
 archive.raspberrypi.org
+mirror.nl.leaseweb.net
