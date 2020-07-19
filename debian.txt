@@ -1,2 +1,1 @@
-ftp.belnet.be
-apt.kubernetes.io
+
